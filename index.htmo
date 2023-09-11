@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "project_info": {
+    "project_number": "458435901960",
+    "project_id": "chuha-38ffd",
+    "storage_bucket": "chuha-38ffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458435901960:android:2098500dc08706f1ea2fbd",
+        "android_client_info": {
+          "package_name": "com.chua.mouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA26-pUTIUvCgZ_ciQflOU3_1vmKZVDEEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
